@@ -13,4 +13,7 @@ Respite, respite and nepenthe from these memories of Lenore
 Quaff, oh quaff, this kind nepenthe and forget the lost lenore
 Quoth the Maven, "Nevermore."
 
+"Prophet!" said I. "Thing of evil! Prophet still, if bird or devil!"
+...
+
 But I know that it is tell-tale that touches my life....
